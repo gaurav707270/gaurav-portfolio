@@ -1,8 +1,8 @@
 export default function About() {
   return (
     <section id="about" className="alt">
-      /* {/* <div className="container"> */} */
-        /* {/* <p className="eyebrow mb-1">// about</p> */} */
+      <div className="container"> 
+         <p className="eyebrow mb-1">// about</p> 
         <h2 className="fw-bold mb-4">A developer who has shipped real features</h2>
         <div className="row g-4">
           <div className="col-md-6">
