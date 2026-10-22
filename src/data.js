@@ -1,5 +1,5 @@
 // ===== EDIT YOUR LINKS HERE =====
-export const GITHUB_URL = "";  // e.g. "https://github.com/yourname"
+export const GITHUB_URL = "https://github.com/gaurav707270";  // e.g. "https://github.com/yourname"
 export const RESUME_URL = "/Gaurav_Kharate_Resume.pdf"; // file in /public (replace the PDF to update)
 // Contact form: get a FREE access key at https://web3forms.com (enter gauravkharate.dev@gmail.com, key arrives by email)
 export const WEB3FORMS_KEY = "";
